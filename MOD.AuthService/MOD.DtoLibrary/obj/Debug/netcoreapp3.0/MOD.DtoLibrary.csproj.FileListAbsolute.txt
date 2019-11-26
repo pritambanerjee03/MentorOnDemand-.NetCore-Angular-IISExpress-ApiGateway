@@ -1,0 +1,7 @@
+E:\pritam802286\Mentor On Demand Segregation\Mentor-On-Demand-Microservice\MOD.AuthService\MOD.DtoLibrary\bin\Debug\netcoreapp3.0\MOD.DtoLibrary.deps.json
+E:\pritam802286\Mentor On Demand Segregation\Mentor-On-Demand-Microservice\MOD.AuthService\MOD.DtoLibrary\bin\Debug\netcoreapp3.0\MOD.DtoLibrary.dll
+E:\pritam802286\Mentor On Demand Segregation\Mentor-On-Demand-Microservice\MOD.AuthService\MOD.DtoLibrary\bin\Debug\netcoreapp3.0\MOD.DtoLibrary.pdb
+E:\pritam802286\Mentor On Demand Segregation\Mentor-On-Demand-Microservice\MOD.AuthService\MOD.DtoLibrary\obj\Debug\netcoreapp3.0\MOD.DtoLibrary.AssemblyInfoInputs.cache
+E:\pritam802286\Mentor On Demand Segregation\Mentor-On-Demand-Microservice\MOD.AuthService\MOD.DtoLibrary\obj\Debug\netcoreapp3.0\MOD.DtoLibrary.AssemblyInfo.cs
+E:\pritam802286\Mentor On Demand Segregation\Mentor-On-Demand-Microservice\MOD.AuthService\MOD.DtoLibrary\obj\Debug\netcoreapp3.0\MOD.DtoLibrary.dll
+E:\pritam802286\Mentor On Demand Segregation\Mentor-On-Demand-Microservice\MOD.AuthService\MOD.DtoLibrary\obj\Debug\netcoreapp3.0\MOD.DtoLibrary.pdb
